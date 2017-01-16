@@ -1,0 +1,9 @@
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/build-ipad4.1-8.1/optimized/
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/bin/iPhone/Debug/BluetoothCrashTest.exe.mdb
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/bin/iPhone/Debug/BluetoothCrashTest.exe
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/BluetoothCrashTest.exe
+/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/BluetoothCrashTest.exe.mdb

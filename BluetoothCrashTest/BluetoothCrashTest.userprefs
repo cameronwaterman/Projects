@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{23B1E7BD-15E8-4CE8-8653-2F6434291760}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BluetoothCrashTest/ViewController.cs">
+    <Files>
+      <File FileName="BluetoothCrashTest/ViewController.cs" Line="34" Column="6" />
+      <File FileName="BluetoothCrashTest/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BluetoothCrashTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>

@@ -1,0 +1,38 @@
+# Version: 10.3.1.8 (cycle8-xi: 7beaef4)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.8/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.8/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/build-ipad4.1-8.1/mtouch-cache \
+	--dev \
+	/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/bin/iPhone/Debug/build-ipad4.1-8.1/BluetoothCrashTest.app \
+	--executable \
+	BluetoothCrashTest \
+	--fastdev \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.2 \
+	--targetver \
+	8.0 \
+	--aot-options=-O=float32 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=arm64 \
+	--symbollist \
+	/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/obj/iPhone/Debug/build-ipad4.1-8.1/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/cameronwaterman/Projects/BluetoothCrashTest/BluetoothCrashTest/bin/iPhone/Debug//BluetoothCrashTest.exe \
